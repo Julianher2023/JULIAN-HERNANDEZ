@@ -1,0 +1,34 @@
+body{
+    background-color: aquamarine;
+    }
+
+    .title{
+        font-size: 3em;
+        color: brown;
+    }
+
+    .logo{
+        width: 300px;
+    }
+
+    .cards{
+        border: 2px solid black;
+        width:fit-content;
+        padding: 1em 1em 1em 1em;
+        border-radius: 11%;
+        transition: 1s;
+        
+    }
+
+    .cards:hover{
+        background-color: blue;
+    }
+
+    #titulos{
+
+        border: 2px solid black;
+        width: 45vw;
+        margin: auto;
+        padding: 2em;
+    }
+
